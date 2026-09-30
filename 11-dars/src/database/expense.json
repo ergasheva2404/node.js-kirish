@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "amount": 1000,
+        "purpose": "najot ta'lim course"
+    },
+    {
+        "id": 2,
+        "amount": 2000,
+        "purpose": "univer_contract"
+    },
+    {
+        "id": 3,
+        "amount": 3000,
+        "purpose": "rent"
+    }
+]
